@@ -16,3 +16,10 @@ class Solution:
                 size += 1
 
         return size
+
+        #Greedy + Binary Search (Patience Sorting Technique)
+
+# Used to solve:
+
+# 👉 300 Longest Increasing Subsequence
+# in O(n log n) time instead of O(n²).
